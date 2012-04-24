@@ -20,11 +20,11 @@ Learning Steps
 
    * http://help.github.com/
 
- * Go through this tutorial
+ * Go through the Git Immersion tutorial
 
    * There's some stuff about Ruby you don't need to worry about
 
-   * You will also not need to set up a git server since we use GitHub
+   * You will not need to set up a git server since we use GitHub
 
    * http://gitimmersion.com/
 
