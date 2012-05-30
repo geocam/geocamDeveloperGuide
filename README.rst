@@ -34,4 +34,4 @@ jQuery
 
 Google Maps API
 ~~~~~~~~~~~~~~~
-* https://developers.google.com/maps/documentation/javascript/I
+* https://developers.google.com/maps/documentation/javascript/
