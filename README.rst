@@ -22,8 +22,7 @@ MDN has a nice, concise overview of the language: https://developer.mozilla.org/
 
 If you're accustomed to object oriented languages with class-based inheritence, you might find this discussion of Javascript's prototype-based inheritence helpful: https://developer.mozilla.org/en/JavaScript/Introduction_to_Object-Oriented_JavaScript
 
-If you're interested in deeper understanding, Douglas Crockford's talks are highly recommended: http://javascript.crockford.com/
-As is his book: http://shop.oreilly.com/product/9780596517748.do
+If you're interested in deeper understanding, Douglas Crockford's `talks <http://javascript.crockford.com/>`_ are highly recommended, as is his `book <http://shop.oreilly.com/product/9780596517748.do>`_. 
 
 jQuery
 ~~~~~~
