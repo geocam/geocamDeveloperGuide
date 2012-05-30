@@ -51,3 +51,6 @@ Learning Steps
    * Read the rest of Pro Git (complicated but interesting)
 
    * Suggest improvements to this curriculum for the next developer
+   
+ * For a cookbook-style approach:
+   * http://gitready.com/
