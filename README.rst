@@ -33,4 +33,8 @@ jQuery
 
 Google Maps API
 ~~~~~~~~~~~~~~~
+The docs for version 3 of the Maps API live here:
 * https://developers.google.com/maps/documentation/javascript/
+
+KML is the XML schema used for through out Google's Map and Earth products for specifying geographic data.
+The schema has `excellect documentation<https://developers.google.com/kml/documentation/kmlreference>`_ that you should become familiar with.
