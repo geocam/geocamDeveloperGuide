@@ -40,7 +40,8 @@ The schema has `excellect documentation <https://developers.google.com/kml/docum
 Ember.js
 ~~~~~~~~
   * `Ember Homepage <http://emberjs.com/>`_ has getting-started text, guides, and Auto-generated d0cs.
-    * Recommended order:
+    
+  * Recommended reading order:
         * `Intro docs <http://emberjs.com/documentation/>`_ 
         * `MVC Guide <http://emberjs.com/guides/ember_mvc/>`_
         * `Routing Guide <http://emberjs.com/guides/outlets/>`_
