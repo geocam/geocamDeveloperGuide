@@ -37,3 +37,20 @@ The docs for version 3 of the Maps API live here:  https://developers.google.com
 
 **KML** is the XML schema used for through out Google's Map and Earth products for specifying geographic data.
 The schema has `excellect documentation <https://developers.google.com/kml/documentation/kmlreference>`_ that you should become familiar with.
+
+Ember.js
+~~~~~~~~
+  * `Ember Homepage <http://emberjs.com/>`_ has getting-started text, guides, and Auto-generated d0cs.
+    * Recommended order:
+        * `Intro docs <http://emberjs.com/documentation/>`_ 
+        * `MVC Guide <http://emberjs.com/guides/ember_mvc/>`_
+        * `Routing Guide <http://emberjs.com/guides/outlets/>`_
+        * `The View Layer<http://emberjs.com/guides/view_layer/>`_
+
+  * ember-data's `readme <https://github.com/emberjs/data>`_ is a pretty good run-down of how to use the persistance layer
+
+  * `An alternative tour of the fulls stack <http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html>`_ that I found very helpful.
+  * `Tom Dale on debugging Ember <http://vimeo.com/37539737>`_ [video] offers a peak into the internals and developers' intent.
+
+  Open questions:
+    * `How should controllers be organized?  <http://stackoverflow.com/questions/8664573/concerning-the-typical-behavior-of-controllers-in-ember>`_
