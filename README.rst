@@ -1,4 +1,3 @@
-
 Tutorials
 =========
 
@@ -45,7 +44,7 @@ Ember.js
         * `Intro docs <http://emberjs.com/documentation/>`_ 
         * `MVC Guide <http://emberjs.com/guides/ember_mvc/>`_
         * `Routing Guide <http://emberjs.com/guides/outlets/>`_
-        * `The View Layer<http://emberjs.com/guides/view_layer/>`_
+        * `The View Layer <http://emberjs.com/guides/view_layer/>`_
 
   * ember-data's `readme <https://github.com/emberjs/data>`_ is a pretty good run-down of how to use the persistance layer
 
