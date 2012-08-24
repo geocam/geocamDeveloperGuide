@@ -54,3 +54,4 @@ Ember.js
 
   Open questions:
     * `How should controllers be organized?  <http://stackoverflow.com/questions/8664573/concerning-the-typical-behavior-of-controllers-in-ember>`_
+    * `Support for nested JSON models in ember-data? <https://github.com/emberjs/data/issues/53>`_
