@@ -39,6 +39,8 @@ The schema has `excellect documentation <https://developers.google.com/kml/docum
 
 Ember.js
 ~~~~~~~~
+  * First, read `Understanding Ember.Object <http://www.cerebris.com/blog/2012/03/06/understanding-ember-object/>`_
+
   * `Ember Homepage <http://emberjs.com/>`_ has getting-started text, guides, and auto-generated d0cs.
     
   * Recommended reading order:
