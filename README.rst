@@ -51,7 +51,7 @@ Ember.js
 
   * ember-data's `readme <https://github.com/emberjs/data>`_ is a pretty good run-down of how to use the persistance layer
 
-  * `An alternative tour of the fulls stack <http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html>`_ that I found very helpful.
+  * `An alternative tour of the full stack <http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html>`_ that I found very helpful.
   * `Tom Dale on debugging Ember <http://vimeo.com/37539737>`_ [video] offers a peak into the internals and developers' intent.
 
   Open questions:
