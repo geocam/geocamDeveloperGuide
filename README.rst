@@ -39,7 +39,6 @@ The schema has `excellect documentation <https://developers.google.com/kml/docum
 
 Ember.js
 ~~~~~~~~
-  * First, read `Understanding Ember.Object <http://www.cerebris.com/blog/2012/03/06/understanding-ember-object/>`_
 
   * `Ember Homepage <http://emberjs.com/>`_ has getting-started text, guides, and auto-generated d0cs.
     
@@ -48,6 +47,7 @@ Ember.js
         * `MVC Guide <http://emberjs.com/guides/ember_mvc/>`_
         * `Routing Guide <http://emberjs.com/guides/outlets/>`_
         * `The View Layer <http://emberjs.com/guides/view_layer/>`_
+  * `Understanding Ember.Object <http://www.cerebris.com/blog/2012/03/06/understanding-ember-object/>`_ explains concisely how to use Ember's instantiation and inheritence mechanisms.  Highly recommended quick read.
 
   * ember-data's `readme <https://github.com/emberjs/data>`_ is a pretty good run-down of how to use the persistance layer
 
