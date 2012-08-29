@@ -49,6 +49,8 @@ Ember.js
         * `The View Layer <http://emberjs.com/guides/view_layer/>`_
   * `Understanding Ember.Object <http://www.cerebris.com/blog/2012/03/06/understanding-ember-object/>`_ explains concisely how to use Ember's instantiation and inheritence mechanisms.  Highly recommended quick read.
 
+  * `Advice On & Instruction in The Use of Ember.js <http://trek.github.com/>`_ provides the best explaination of how to build a basic Ember app I've found so far.
+
   * ember-data's `readme <https://github.com/emberjs/data>`_ is a pretty good run-down of how to use the persistance layer
 
   * `An alternative tour of the full stack <http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html>`_ that I found very helpful.
