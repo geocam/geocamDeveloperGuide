@@ -37,8 +37,19 @@ The docs for version 3 of the Maps API live here:  https://developers.google.com
 **KML** is the XML schema used for through out Google's Map and Earth products for specifying geographic data.
 The schema has `excellect documentation <https://developers.google.com/kml/documentation/kmlreference>`_ that you should become familiar with.
 
+Backbone.js
+~~~~~~~~~~~
+  * `Backbone.js website <backbonejs.org>`_ has good documentation and many examples.
+
+  * **Note:** `underscore.js <underscorejs.org>`_ is required for backbone.js to work.
+
+  * `The actual backbone.js <http://backbonejs.org/backbone.js>`_ has really good documentation and code examples included with it.
+
+
 Ember.js
 ~~~~~~~~
+
+  * **Note:** As of latest, development has switched from ember.js to `backbone.js <http://backbonejs.org>`_
 
   * `Ember Homepage <http://emberjs.com/>`_ has getting-started text, guides, and auto-generated d0cs.
     
