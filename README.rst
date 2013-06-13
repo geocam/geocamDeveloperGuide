@@ -45,6 +45,8 @@ Backbone.js
 
   * `The actual backbone.js <http://backbonejs.org/backbone.js>`_ has really good documentation and code examples included with it.
 
+  * `Backbone Fundementals <http://addyosmani.github.io/backbone-fundamentals/>`_ is a book on backbone.js that is pretty nice.
+
 
 Ember.js
 ~~~~~~~~
