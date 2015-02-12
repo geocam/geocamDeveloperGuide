@@ -53,4 +53,5 @@ Learning Steps
    * Suggest improvements to this curriculum for the next developer
    
  * For a cookbook-style approach:
+ 
    * http://gitready.com/
